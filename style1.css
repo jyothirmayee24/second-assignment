@@ -1,0 +1,30 @@
+header{
+    font-size: 40px;
+    text-align: center;
+    background-color: blueviolet;
+}
+.nav{
+    height: 35px;
+    background-color:rgb(126, 214, 126);
+}
+a{
+    font-size: 20px;
+    text-decoration:none;
+    float:left;
+    margin-right: 90px;
+    text-align: center;
+}
+
+a:Hover {
+ color:rgb(161, 15, 15);
+ font-size: 25px;
+    }
+    #unit{
+        height:50px;
+        background-color: rgb(180, 36, 48);
+        font-size: 20px;
+    }
+    p{
+        float: right;
+    }
+  
