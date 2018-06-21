@@ -1,4 +1,4 @@
-#container {
+#container{
         width:1200px;
         height:auto;
         margin-left:auto;
@@ -31,7 +31,7 @@
                         width:600px;
                         height:100px;
                         float:left;
-                        background-color: rgb(216, 209, 141);
+                        background-color: rgb(182, 179, 158);
                         }
                         #grid5 {
                             font-size: 20px;
