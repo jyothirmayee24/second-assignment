@@ -9,6 +9,13 @@ height: 70px;
     background-color: rgb(214, 202, 95);
     padding-top: 15px;
 }
+#nav_bar img{
+    height:75px;
+    width: 220px;
+    float: left;
+ margin: 3px;
+ 
+}
 #nav_bar h1{
    font-style: italic;
 font-size: 22px;
