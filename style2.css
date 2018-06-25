@@ -1,64 +1,73 @@
-#container{
-        width:1200px;
-        height:auto;
-        margin-left:auto;
-        margin-right:auto;
-        margin-top:10px;
-        margin-bottom:20px;
+
+#wrapper_12{
+    width:960px;
+    height: 1400px;
+    margin-left:auto;
+  margin-right:auto;
+    }
+    #grid1 {
+        padding-top: 0px;
+        font-size: 15px;
+        width:470px;
+        height:360px;
+        float:left;
+        padding-right: 10px;
         }
-        #grid1 {
-            font-size: 15px;
-            width:600px;
-            height:300px;
+    
+        #grid2 {
+            width:480px;
+            height:360px;
             float:left;
-            }
-        
-            #grid2 {
-                width:600px;
-                height:300px;
+            
+        }
+            #grid3 {
+                font-size: 20px;
+                width:480px;
+                height:120px;
                 float:left;
-                
-            }
-                #grid3 {
+                background-color: rgb(216, 209, 141);
+                }
+                #grid3 a{
+                    font-size: 18px;
+                }
+                #grid4 {
                     font-size: 20px;
-                    width:600px;
-                    height:100px;
+                    width:480px;
+                    height:120px;
                     float:left;
-                    background-color: rgb(216, 209, 141);
+                    background-color: rgb(182, 179, 158);
                     }
-                    #grid4 {
+                    #grid4 a{
+                        font-size: 18px;
+                    }
+                    #grid5 {
                         font-size: 20px;
-                        width:600px;
-                        height:100px;
+                        width:480px;
+                        height:120px;
                         float:left;
-                        background-color: rgb(182, 179, 158);
+                        background-color: rgb(216, 209, 141);
                         }
-                        #grid5 {
-                            font-size: 20px;
-                            width:600px;
-                            height:100px;
-                            float:left;
-                            background-color: rgb(216, 209, 141);
-                            }
-                            #grid{
-                                width:1200px;
-                                height:500px;
-                            }
-        #grid6{
-            width:400px;
-            height:500px;
-            float: left;
-            
-        }
-        #grid7{
-            width:400px;
-            height:500px;
-            float: left;
-            
-        
-        }
-        #grid8{
-            width:400px;
-            height:500px;
-            float: left;
-        }
+                        #grid5 a{
+                            font-size: 18px;
+                        }
+                        #grid{
+                            width:960px;
+                            height:500px;
+                        }
+                        #grid6{
+                            width:320px;
+                            height:500px;
+                            float: left;
+                        }
+                        #grid7{
+                            width:320px;
+                            height:500px;
+                          float: left;
+                        }
+                        #grid8{
+                            width:320px;
+                            height:500px;
+                            padding-right: 0;
+                            float: left;
+                        }
+                       
